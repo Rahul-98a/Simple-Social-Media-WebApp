@@ -1,5 +1,5 @@
-# Access app at http://localhost:8080
-
+## Overview
+* A social media web application where users can create posts, comment on posts, and send messages to other users.
 
 ## Premade accounts
 
@@ -57,6 +57,12 @@ https://medium.com/@wintermeyer/authentication-from-scratch-with-rails-5-2-92d86
 Unicorn config in chef file based of of class notes and the following:
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-unicorn-and-nginx-on-ubuntu-14-04
 https://deploy-preview-3018--nostalgic-ptolemy-b01ab8.netlify.app/development/ror/use-unicorn-and-nginx-on-ubuntu-18-04/
+
+
+## Steps to Run
+* Have vagrant and virtual box installed.
+* Clone the repo and run "vagrant up". Site can be accessed at localhost:8080
+
 
 
 
