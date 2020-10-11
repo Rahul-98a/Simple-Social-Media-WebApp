@@ -63,7 +63,7 @@ https://deploy-preview-3018--nostalgic-ptolemy-b01ab8.netlify.app/development/ro
 1. Have vagrant and virtual box installed.
 2. Clone the repo and run "vagrant up". Site can be accessed at localhost:8080
 
-After running "vagrant up" will take ~30min for VM to be ready.
+After running "vagrant up" it will take ~30min for VM to be ready.
 
 
 
